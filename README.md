@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @habsgirl19
-- 👀 I’m interested in sustainable initiatives, ESG, and hockey advanced stats
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in soccdr advanced stats
+- 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on projects that involve stock projections, grassroots sustainable iniatives and hockey analytics
 - 📫 How to reach me kheiman72@gmail.com
 
